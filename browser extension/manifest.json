@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "English to Bangla Translator",
+    "version": "1.0",
+    "description": "Translate selected English text to Bangla.",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"],
+        "css": ["style.css"]
+      }
+    ]
+  }
+  

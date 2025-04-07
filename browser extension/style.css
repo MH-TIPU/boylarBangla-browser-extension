@@ -1,0 +1,14 @@
+.bangla-tooltip {
+    position: absolute;
+    background: #f9f9f9;
+    color: #222;
+    border: 1px solid #ccc;
+    padding: 6px 12px;
+    font-size: 16px;
+    font-family: 'Noto Sans Bengali', sans-serif;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    z-index: 9999;
+  }
+
+  
