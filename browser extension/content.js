@@ -2,7 +2,7 @@ document.addEventListener("mouseup", async () => {
     const selection = window.getSelection().toString().trim();
     if (selection.length === 0) return;
   
-    const url = `http://127.0.0.1:8000/api/translate?text=${encodeURIComponent(selection)}`;
+    const url = `https://translate.boylar.com/api/translate?text=${encodeURIComponent(selection)}`;
   
     try {
       const response = await fetch(url);
