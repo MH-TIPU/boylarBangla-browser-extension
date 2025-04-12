@@ -75,4 +75,4 @@ If you encounter any issues or have questions, feel free to open an issue in the
 
 ## Contact
 
-For any inquiries, reach out to [Mosaraf Hossain Tipu] at [iammhtipu@gmail.com] or open an issue on GitHub.
+For any inquiries, reach out to me at iammhtipu@gmail.com or open an issue on GitHub.
